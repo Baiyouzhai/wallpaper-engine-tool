@@ -1,0 +1,254 @@
+﻿{
+  "OutType": 0,
+  "SteamFoler": "",
+  "OutFile": "out.txt",
+  "LastTabIndex": 0,
+  "ErrorFile": "error.log",
+  "Data": {
+    "Cookies": [
+      {
+        "Name": "ak_bmsc",
+        "Value": "",
+        "Tips":  "未知"
+      },
+      {
+        "Name": "workshopNumPerPage",
+        "Value": "30",
+        "Tips": "分页大小"
+      },
+      {
+        "Name": "app_impressions",
+        "Value": "",
+        "Tips": "未知(不填)"
+      },
+      {
+        "Name": "recentlyVisitedAppHubs",
+        "Value": "431960",
+        "Tips": "SteamAppID(Wallpaper在workshop文件夹就是这个ID)"
+      },
+      {
+        "Name": "sessionid",
+        "Value": "",
+        "Tips": "用户访问id(和登录相关,会变)"
+      },
+      {
+        "Name": "_ga",
+        "Value": "",
+        "Tips": "暂时不知道什么东西(应该也和登录相关)"
+      },
+      {
+        "Name": "steamLoginSecure",
+        "Value": "",
+        "Tips": "很长的一串(和登录相关,会变)"
+      },
+      {
+        "Name": "steamCountry",
+        "Value": "",
+        "Tips": "所在地编码(地区不一样限制不一样)"
+      },
+      {
+        "Name": "timezoneOffset",
+        "Value": "28800",
+        "Tips": "时区偏移(东8区偏移8H)"
+      }
+    ],
+    "Resolutions": [
+      "Standard Definition|宽屏-标清",
+      "1280 x 720|宽屏",
+      "1366 x 768|宽屏",
+      "1920 x 1080|宽屏-全高清",
+      "2560 x 1440|宽屏",
+      "3840 x 2160|宽屏-4K",
+      "Ultrawide Standard Definition|超宽屏-标准",
+      "Ultrawide 2560 x 1080|超宽屏",
+      "Ultrawide 3440 x 1440|超宽屏",
+      "Dual Standard Definition|双显示器",
+      "Dual 3840 x 1080|双显示器",
+      "Dual 5120 x 1440|双显示器",
+      "Dual 7680 x 2160|双显示器",
+      "Triple Standard Definition|三显示器-标准",
+      "Triple 4096 x 768|三显示器",
+      "Triple 5760 x 1080|三显示器",
+      "Triple 7680 x 1440|三显示器",
+      "Triple 11520 x 2160|三显示器",
+      "Portrait Standard Definition|纵向监视器/手机-标准",
+      "Portrait 720 x 1280|纵向监视器/手机",
+      "Portrait 1080 x 1920|纵向监视器/手机",
+      "Portrait 1440 x 2560|纵向监视器/手机",
+      "Portrait 2160 x 3840|纵向监视器/手机",
+      "Other resolution|其它分辨率",
+      "Dynamic resolution|动态分辨率"
+    ],
+    "Resolution": "Other resolution|其它分辨率",
+    "Vertical": [
+      "Portrait Standard Definition|纵向监视器/手机-标准",
+      "Portrait 720 x 1280|纵向监视器/手机",
+      "Portrait 1080 x 1920|纵向监视器/手机",
+      "Portrait 1440 x 2560|纵向监视器/手机",
+      "Portrait 2160 x 3840|纵向监视器/手机",
+      "Other resolution|其它分辨率"
+    ],
+    "Alignment": [
+      "0|覆盖",
+      "1|填充",
+      "3|居中",
+      "2|拉伸",
+      "3|自由"
+    ],
+    "WaitUnSubscribe": {
+      "Type": "LCRC",
+      "Min": 1,
+      "Max": 1
+    },
+    "WaitOriginScan": {
+      "Type": "LCRC",
+      "Min": 1,
+      "Max": 1
+    }
+  },
+  "Origin": {
+    "tags": {
+      "Miscellaneous": [
+        "Approved",
+        "Audio responsive",
+        "Customizable",
+        "Puppet Warp",
+        "HDR",
+        "Video Texture",
+        "Asset Pack",
+        "Media Integration",
+        "3D"
+      ],
+      "Type": [
+        "Scene",
+        "Video",
+        "Application",
+        "Web"
+      ],
+      "Age_Rating": [
+        "Everyone",
+        "Questionable",
+        "Mature"
+      ],
+      "Genre": [ //多选
+        "Abstract",
+        "Animal",
+        "Anime",
+        "Cartoon",
+        "CGI",
+        "Cyberpunk",
+        "Fantasy",
+        "Game",
+        "Girls",
+        "Guys",
+        "Landscape",
+        "Medieval",
+        "Memes",
+        "MMD",
+        "Music",
+        "Nature",
+        "Pixel art",
+        "Relaxing",
+        "Retro",
+        "Sci-Fi",
+        "Sports",
+        "Technology",
+        "Television",
+        "Vehicle",
+        "Unspecified"
+      ],
+      "Resolution": [
+        "Standard Definition",
+        "1280 x 720",
+        "1366 x 768",
+        "1920 x 1080",
+        "2560 x 1440",
+        "3840 x 2160",
+        "Ultrawide Standard Definition",
+        "Ultrawide 2560 x 1080",
+        "Ultrawide 3440 x 1440",
+        "Dual Standard Definition",
+        "Dual 3840 x 1080",
+        "Dual 5120 x 1440",
+        "Dual 7680 x 2160",
+        "Triple Standard Definition",
+        "Triple 4096 x 768",
+        "Triple 5760 x 1080",
+        "Triple 7680 x 1440",
+        "Triple 11520 x 2160",
+        "Portrait Standard Definition",
+        "Portrait 720 x 1280",
+        "Portrait 1080 x 1920",
+        "Portrait 1440 x 2560",
+        "Portrait 2160 x 3840",
+        "Other resolution",
+        "Dynamic resolution"
+      ],
+      "Category": [
+        "Wallpaper",
+        "Preset",
+        "Asset"
+      ],
+      "Asset_Type": [
+        "Particle",
+        "Image",
+        "Sound",
+        "Model",
+        "Text",
+        "Sprite",
+        "Fullscreen",
+        "Composite",
+        "Script",
+        "Effect"
+      ],
+      "Asset_Genre": [
+        "Audio Visualizer",
+        "Background",
+        "Character",
+        "Clock",
+        "Fire",
+        "Interactive",
+        "Magic",
+        "Post Processing",
+        "Smoke",
+        "Space"
+      ],
+      "Script_Type": [
+        "Boolean",
+        "Number",
+        "Vec2",
+        "Vec3",
+        "Vec4",
+        "String",
+        "No Animation",
+        "Oversized"
+      ]
+    },
+    "use": {
+      "Miscellaneous": [],
+      "Type": [
+        "Video"
+      ],
+      "Age_Rating": [
+        "Mature"
+      ],
+      "Genre": [
+        "Anime",
+        "Cartoon",
+        "CGI",
+        "Game",
+        "Girls",
+        "Memes",
+        "MMD",
+        "Unspecified"
+      ],
+      "Resolution": [],
+      "Category": [],
+      "Asset_Type": [],
+      "Asset_Genre": [],
+      "Script_Type": []
+    },
+    "folderName": "origin_cache",
+    "errorName": "error.log"
+  }
+}
